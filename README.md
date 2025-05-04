@@ -1,9 +1,4 @@
-# **Asentó**  
-**Client Project for Epic Inspired**  
-**Version:** V1 – May 3, 2025  
-**Category:** Epic Inspired – Real Estate Development  
-
----
+# **Asentó**    
 
 ## 🧭 Overview  
 **Asentó** is a modern, one-page real estate website built with **Webflow** to showcase a new residential development. The design embraced **clear, smooth colors** and a **summer-style aesthetic**, reflecting the calm, coastal environment where the homes were being built. The purpose of the site was to market and generate interest in a lifestyle-driven real estate project.
